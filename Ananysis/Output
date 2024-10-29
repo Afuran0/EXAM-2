@@ -1,0 +1,13 @@
+PS C:\Users\amede\Downloads> & C:/Users/amede/AppData/Local/Microsoft/WindowsApps/python3.12.exe "c:/Users/amede/Downloads/Exam 2 code.py"
+Sorted List of Students by Score (Descending):
+Student ID: 3, Name: Jose, Score: 94
+Student ID: 1, Name: Amedeo, Score: 93
+Student ID: 4, Name: Jonah, Score: 92
+Student ID: 2, Name: Alejandro, Score: 90
+
+Search Result for student_id = 2
+Student ID: 2, Name: Alejandro, Score: 90
+
+Search Result for student_id = 5
+Student not found
+PS C:\Users\amede\Downloads>
